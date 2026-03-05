@@ -35,9 +35,11 @@ Each `Category` object holds a ledger — a running list of transactions. You ca
 The standalone `CreateSpendChart(categories)` function takes a list of categories and prints a vertical bar chart showing what percentage of total spending came from each one.
 
 ## Example Output:
-```***************Food***************
+```
+***************Food***************
 initial deposit        1000.00
 groceries               -10.15
 restaurant and more foo -15.89
 Transfer to Clothing    -50.00
-Total: 923.96```
+Total: 923.96
+```

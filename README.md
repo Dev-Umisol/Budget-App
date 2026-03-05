@@ -2,3 +2,5 @@
 A terminal-based budget tracker built with Python classes — a freeCodeCamp certification project.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Project](https://img.shields.io/badge/freeCodeCamp-Certification%20Project-informational?logo=freecodecamp)

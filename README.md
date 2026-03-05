@@ -9,6 +9,7 @@ A terminal-based budget tracker built with Python classes — a freeCodeCamp cer
 This is my second freeCodeCamp certification project, built to practice object-oriented programming in Python. The app models budget categories (like Food and Clothing), supports deposits, withdrawals, and transfers between categories, and generates a visual bar chart showing spending percentages — all printed to the terminal like a receipt.
 
 🧠 What I Learned
+
 Classes & OOP — Designing a Category class with its own state (ledger) and methods that interact with each other, such as transfer() calling both withdraw() and deposit() internally
 Working with lists of dictionaries — Using a ledger (a list of {"amount": ..., "description": ...} dicts) to model a real-world transaction history
 String formatting — Producing neatly aligned receipt-style output using f-strings with padding (e.g. :<23 and :>7.2f) and the str.center() method

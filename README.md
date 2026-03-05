@@ -46,11 +46,11 @@ Total: 923.96
 
 ## 🚀 Future Improvements
 
-- [] Add persistent storage so budgets save between sessions (e.g. using JSON or SQLite)
-- [] Build a simple CLI interface with argparse so categories and amounts can be passed as arguments
-- [] Add a `monthly_summary()` method to report spending over time
-- [] Write unit tests with `pytest` to validate edge cases like overdrafts and empty categories
-- [] Explore building a GUI version using `tkinter`
+- [ ] Add persistent storage so budgets save between sessions (e.g. using JSON or SQLite)
+- [ ] Build a simple CLI interface with argparse so categories and amounts can be passed as arguments
+- [ ] Add a `monthly_summary()` method to report spending over time
+- [ ] Write unit tests with `pytest` to validate edge cases like overdrafts and empty categories
+- [ ] Explore building a GUI version using `tkinter`
 
 ## 📂 Project Structure
 
